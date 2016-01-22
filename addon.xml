@@ -3,14 +3,14 @@
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.xbmcswift2" version="2.4.0"/>
-    <import addon="plugin.video.youtube" version="5.0.0"/>
+    <import addon="plugin.video.youtube" version="5.1.16"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
      <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">SLAM! Live streams</summary>
-    <description lang="en">Streams the SLAM! TV and Webcam Live Streams</description>
+    <description lang="en">Streams the slam.nl SLAM! TV and Webcam Live Streams</description>
     <platform>all</platform>
     <language>en</language>
     <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
