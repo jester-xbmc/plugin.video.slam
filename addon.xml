@@ -10,7 +10,9 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">SLAM! Live streams</summary>
+	<summary lang="nl">SLAM! Live streams</summary>
     <description lang="en">Streams the slam.nl SLAM! TV and Webcam Live Streams</description>
+	<description lang="nl">Streamt de slam.nl SLAM! TV en Webcam Live Streams</description>
     <platform>all</platform>
     <language>nl</language>
     <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
