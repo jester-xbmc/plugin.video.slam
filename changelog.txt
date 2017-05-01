@@ -1,3 +1,5 @@
+v1.0.3 (01-05-2017)
+
 v1.0.2 (21.02.2016)
 - Remove incorrect youtube requirement
 
